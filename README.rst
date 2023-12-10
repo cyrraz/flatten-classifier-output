@@ -10,8 +10,8 @@ The figures are produced with the [plothist](https://github.com/cyrraz/plothist)
 
 .. |img1| image:: https://raw.githubusercontent.com/cyrraz/flatten-classifier-output/main/classifier_output.svg
    :alt: Classifier output
-   :width: 320
+   :width: 400
 
 .. |img2| image:: https://raw.githubusercontent.com/cyrraz/flatten-classifier-output/main/flatten_distribution.svg
    :alt: 1 - signal efficiency
-   :width: 320
+   :width: 400
