@@ -4,7 +4,7 @@ flatten-classifier-output
 
 The ipython notebook contained in this repository shows how to transform the output of a binary classifier in such a way that it becomes uniform (flat) for the signal class.
 
-The figures are produced with the [plothist](https://github.com/cyrraz/plothist) package.
+The figures are produced with the `plothist <https://github.com/cyrraz/plothist/>`_ package.
 
 |img1| |img2|
 
