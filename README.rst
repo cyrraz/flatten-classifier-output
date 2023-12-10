@@ -1,5 +1,6 @@
+=========================
 flatten-classifier-output
-===========================
+=========================
 
 The ipython notebook contained in this repository shows how to transform the output of a binary classifier in such a way that it becomes uniform (flat) for the signal class.
 
